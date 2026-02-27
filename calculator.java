@@ -2,8 +2,7 @@ import java.util.Scanner;
  class demo{
     
     public void sum(int n1,int n2){
-        int r=n1+n2;
-        System.out.print("Sum="+r);
+        System.out.print("Sum="+(n1+n2));
     }
     public void dif(int n1,int n2)
     {
@@ -46,3 +45,4 @@ public class calculator {
     
     
 }
+
